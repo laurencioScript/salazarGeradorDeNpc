@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.salazar_geradordenpc.manual">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Bem vindo Mestre de rpg  Salazar Gerador de NPC é uma ferramenta criada para facilitar sua vida, com a função de gerar uma ficha para aqueles tipicos npcs q invetamos na hora de mestrar ou para gerar npcs que não tenha tanta importancia na historia. A ficha do NPC é composta pelo seguites aspectos: Nome + Sobronome = Sao nomes é sobrenomes  baseado na Raça. Genero  Raça Atualmente so as disponivel do DD 5e. Aparencia = é uma caracteristica relacionado a aparencia do NPC que chama mais atenção. ex: Voces reparam um anao sem uma mão. Habilidade = é um atributo alto ou baixo que o NPC tem que pode dizer algumas coisas sobre ele. ex: Voces reparam numa mulher muito palida. (Constituição baixa)  Dom = Algo que o NPC tem talento para fazer. ex: Arrumar brigar em bar, sem motivo. Maneirismo = É uma caracteristica marcante do NPC, algo que faz ele ser lembrado. ex: Aquele ladino sempre tenta nos passar a perna, não vamos mas pagar por suas informações. Ideal = Aliamento do NPC. Vinculo = Seria ligações que o NPC tenha com pessoas ou lugares. ex: Familia, Patrão ou ate mesmo uma arvore em especial. Segredo ou Defeito = Uma caracteristica para deixar o NPC mais completo. ex: Segredo possui um item lendario escondido em casa ou Defeito Não tem respeito com ninguem. "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

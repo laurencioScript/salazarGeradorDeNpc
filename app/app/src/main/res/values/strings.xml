@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Salazar - Gerador de NPC</string>
+    <string name="btnGerar">Gerar</string>
+    <string name="btnConfig">Configurar</string>
+    <string name="btnManual">Manual</string>
+    <string name="textNome">Nome:</string>
+    <string name="textRaça">Raça:</string>
+    <string name="textGenero">Genêro:</string>
+    <string name="textAparencia">Aparencia:</string>
+    <string name="textCarac">Caracteristica:</string>
+    <string name="textDom">Dom:</string>
+    <string name="textMane">Maneirismo:</string>
+    <string name="textTraço">Traço de inteiração:</string>
+    <string name="textIdeal">Ideal:</string>
+    <string name="textVinculo">Vinculo:</string>
+    <string name="textSegredo">Defeito ou Segredo:</string>
+    <string name="editNome">none</string>
+    <string name="editRaça">none</string>
+    <string name="editGenero">none</string>
+    <string name="editAparencia">none</string>
+    <string name="editCaract">none</string>
+    <string name="editDom">none</string>
+    <string name="editManei">none</string>
+    <string name="editTraço">none</string>
+    <string name="editIdeal">none</string>
+    <string name="editVinculo">none</string>
+    <string name="editSegredo">none</string>
+    <string-array name="opçãoGenero">
+        <item>Aleatorio</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="opçãoFicha">
+        <item>Aleatorio</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="opçãoRaça">
+        <item>Aleatorio</item>
+        <item>Anão da Colina</item>
+        <item>Anão da Montanha</item>
+        <item>Alto Elfo</item>
+        <item>Elfo da Floresta</item>
+        <item>Elfo Negro</item>
+        <item>Halfling Pés Leve</item>
+        <item>Halfling Robusto</item>
+        <item>Humano</item>
+        <item>Draconato</item>
+        <item>Gnomo da Floresta</item>
+        <item>Gnomo da Rocha</item>
+        <item>Meio Elfo</item>
+        <item>Meio Orc</item>
+        <item>Tiefling</item>
+    </string-array>
+    <string name="nameConfig">Personalização do Gerar</string>
+    <string name="opçãoGenero">Genero</string>
+    <string name="opcaoRaca">Raça</string>
+    <string name="opcaoQtd">Quantidade de fichas</string>
+    <string name="subConfig">Informe ao Salazar que tipo de NPC vc deseja.</string>
+    <string name="btnGerarFilto">Gerar</string>
+    <string name="Manual">Bem vindo Mestre de rpg  Salazar Gerador de NPC é uma ferramenta criada para facilitar sua vida, com a função de gerar uma ficha para aqueles tipicos npcs q invetamos na hora de mestrar ou para gerar npcs que não tenha tanta importancia na historia. A ficha do NPC é composta pelo seguites aspectos: Nome + Sobronome = Sao nomes é sobrenomes  baseado na Raça. Genero  Raça Atualmente so as disponivel do DD 5e. Aparencia = é uma caracteristica relacionado a aparencia do NPC que chama mais atenção. ex: Voces reparam um anao sem uma mão. Habilidade = é um atributo alto ou baixo que o NPC tem que pode dizer algumas coisas sobre ele. ex: Voces reparam numa mulher muito palida. (Constituição baixa)  Dom = Algo que o NPC tem talento para fazer. ex: Arrumar brigar em bar, sem motivo. Maneirismo = É uma caracteristica marcante do NPC, algo que faz ele ser lembrado. ex: Aquele ladino sempre tenta nos passar a perna, não vamos mas pagar por suas informações. Ideal = Aliamento do NPC. Vinculo = Seria ligações que o NPC tenha com pessoas ou lugares. ex: Familia, Patrão ou ate mesmo uma arvore em especial. Segredo ou Defeito = Uma caracteristica para deixar o NPC mais completo. ex: Segredo possui um item lendario escondido em casa ou Defeito Não tem respeito com ninguem.</string>
+    <string name="btnFravorito">Salvar</string>
+    <string name="btnFavoritos">Favoritos</string>
+    <string name="txtDetalhes">Detalhes do NPC</string>
+    <string name="txtFichaX">NPCs Salvos</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnGerarDnv">Refresh</string>
+    <string name="btnExcluir">Apagar</string>
+    <string name="Fundo">" "</string>
+    <string name="personagem"></string>
+</resources>

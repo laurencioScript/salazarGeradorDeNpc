@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Apr 05 06:59:26 BRT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\pc\\AndroidStudioProjects\\SalazarGeradordeNPC\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\151
+0.path=classes.dex
+0.set=DEX
+count=1
